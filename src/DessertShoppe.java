@@ -5,7 +5,7 @@
  * an integer for cents into a String that has the correct formatting in dollars.
  * DO NOT CHANGE THIS CLASS!
  * 
- * @author Mr. A. Lamont
+ * @author Maloof
  */
 
 public class DessertShoppe {

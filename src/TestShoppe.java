@@ -3,7 +3,7 @@
  * It will print out exactly as shown in the example.
  * Be sure your output matches EXACTLY as part of this will be automarked!
  * 
- * @author Adam
+ * @author Maloof
  */
 
 public class TestShoppe {
